@@ -12,12 +12,12 @@
     4.莊家在取得17點之前必須要牌，因規則不同會有軟17點或硬17點才停牌的  具體區分。
 
     5.莊家如果拿牌五張而沒有爆牌則視為莊家勝利。
-![image](https://github.com/oOwuowenOo/Blackjack/blob/%E6%9C%AC%E9%AB%94/BJ%E5%9C%96/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-06-18%20194616.png)
+![image](https://github.com/oOwuowenOo/Blackjack/blob/%E6%9C%AC%E9%AB%94/BJ%E5%9C%96/UNL.png) 
  
 
 # 程式如何安裝執行(圖文講解)
 ### 1. 點<>Code 再點 Downlode Zip並解壓縮  
-![image](https://github.com/oOwuowenOo/Blackjack/blob/%E6%9C%AC%E9%AB%94/BJ%E5%9C%96/UNL.png) 
+![image](https://github.com/oOwuowenOo/Blackjack/blob/%E6%9C%AC%E9%AB%94/BJ%E5%9C%96/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-06-18%20194616.png)
 ### 2. 使用 Visual Studio 執行
   
 # 程式畫面截圖  
