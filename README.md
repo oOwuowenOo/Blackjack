@@ -12,7 +12,7 @@
     4.莊家在取得17點之前必須要牌，因規則不同會有軟17點或硬17點才停牌的  具體區分。
 
     5.莊家如果拿牌五張而沒有爆牌則視為莊家勝利。
-![image](https://github.com/oOwuowenOo/Blackjack/blob/%E6%9C%AC%E9%AB%94/BJ%E5%9C%96/UNL.png) 
+![image](https://github.com/oOwuowenOo/Blackjack/blob/%E6%9C%AC%E9%AB%94/BJ%E5%9C%96/UML.png) 
  
 
 # 程式如何安裝執行(圖文講解)
